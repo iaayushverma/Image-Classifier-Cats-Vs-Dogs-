@@ -290,4 +290,4 @@ For non-binary classifications:
 
 **Aayush (16104001_NIT Jalandhar)**
 
-[**GITHUB**] :(https://github.com/iaayushverma)
+**GITHUB**: (https://github.com/iaayushverma)
