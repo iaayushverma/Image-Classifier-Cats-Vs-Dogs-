@@ -45,9 +45,9 @@ For non-binary classifications:
 
 **Description:** Binary classification. Two classes to distinguish - **dogs** and **cats**.
 
-**Training:** 10 000 images per class
+**Training:** 10,000 images per class
 
-**Validation:** 2 500 images per class
+**Validation:** 2,500 images per class
 
 
 ### model_1
@@ -290,4 +290,4 @@ For non-binary classifications:
 
 **Aayush (16104001_NIT Jalandhar)**
 
-[**GITHUB**](https://github.com/iaayushverma)
+[**GITHUB**] :(https://github.com/iaayushverma)
