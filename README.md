@@ -34,7 +34,7 @@ Structure your data as follows:
 For binary classifications you are good to go!
 
 For non-binary classifications:
-
+ 
 * add other classes to training and validation directories
 * change class_mode from "binary" to "categorical"
 * change loss function from "binary\_crossentropy" to "categorical\_crossentropy"
