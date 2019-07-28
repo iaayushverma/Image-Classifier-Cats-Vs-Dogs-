@@ -6,9 +6,6 @@
 
 Python Jupyter Notebook with **Convolutional Neural Network** image classifier implemented in **Keras** 🖼️. It's **[Google Colab](https://colab.research.google.com/)** ready.
 
-Check out corresponding Medium article:
-
-[Image Classifier - Cats🐱 vs Dogs🐶 with Convolutional Neural Networks (CNNs) and Google Colab’s Free GPU](https://towardsdatascience.com/image-classifier-cats-vs-dogs-with-convolutional-neural-networks-cnns-and-google-colabs-4e9af21ae7a8)
 
 ## Usage
 
@@ -46,7 +43,7 @@ For non-binary classifications:
 
 **Dataset:** [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats)
 
-**Description:** Binary classification. Two classes two distinguish - **dogs** and **cats**.
+**Description:** Binary classification. Two classes to distinguish - **dogs** and **cats**.
 
 **Training:** 10 000 images per class
 
@@ -290,16 +287,7 @@ For non-binary classifications:
 
 ## Author
 
-**Greg (Grzegorz) Surma**
 
-[**PORTFOLIO**](https://gsurma.github.io)
+**Aayush (16104001_NIT Jalandhar)**
 
-[**GITHUB**](https://github.com/gsurma)
-
-[**BLOG**](https://medium.com/@gsurma)
-
-<a href="https://www.paypal.com/paypalme2/grzegorzsurma115">
-  <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
-</a>
-
-
+[**GITHUB**](https://github.com/iaayushverma)
