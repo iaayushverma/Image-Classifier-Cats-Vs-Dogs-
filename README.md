@@ -4,7 +4,7 @@
 
 # Image Classifier
 
-Python Jupyter Notebook with **Convolutional Neural Network** image classifier implemented in **Keras** 🖼️. It's **[Google Colab](https://colab.research.google.com/)** ready.
+Python Jupyter Notebook with **Convolutional Neural Network** image classifier implemented in **Keras**. It's **[Google Colab](https://colab.research.google.com/)** ready.
 
 
 ## Usage
@@ -84,11 +84,11 @@ For non-binary classifications:
 	_________________________________________________________________
 
 
-<img src="models/model_1/model_1_training.png" width="500">
+<img src="Models Attempts/model_1/model_1_training.png" width="500">
 
 <br>
 
-<img src="models/model_1/model_1_validation.png" width="500">
+<img src="Models Attempts/model_1/model_1_validation.png" width="500">
 
 ### model_2
 	_________________________________________________________________
@@ -130,11 +130,11 @@ For non-binary classifications:
 	_________________________________________________________________
 
 
-<img src="models/model_2/model_2_training.png" width="500">
+<img src="Models Attempts/model_2/model_2_training.png" width="500">
 
 <br>
 
-<img src="models/model_2/model_2_validation.png" width="500">
+<img src="Models Attempts/model_2/model_2_validation.png" width="500">
 
 
 ### model_3
@@ -177,11 +177,11 @@ For non-binary classifications:
 	_________________________________________________________________
 
 
-<img src="models/model_3/model_3_training.png" width="500">
+<img src="Models Attempts/model_3/model_3_training.png" width="500">
 
 <br>
 
-<img src="models/model_3/model_3_validation.png" width="500">
+<img src="Models Attempts/model_3/model_3_validation.png" width="500">
 
 
 ### model_4
@@ -224,11 +224,11 @@ For non-binary classifications:
 	_________________________________________________________________
 
 
-<img src="models/model_4/model_4_training.png" width="500">
+<img src="Models Attempts/model_4/model_4_training.png" width="500">
 
 <br>
 
-<img src="models/model_4/model_4_validation.png" width="500">
+<img src="Models Attempts/model_4/model_4_validation.png" width="500">
 
 
 ### model_5
@@ -279,11 +279,11 @@ For non-binary classifications:
 	Non-trainable params: 0
 	_________________________________________________________________
 
-<img src="models/model_5/model_5_training.png" width="500">
+<img src="Models Attempts/model_5_final/model_5_training.png" width="500">
 
 <br>
 
-<img src="models/model_5/model_5_validation.png" width="500">
+<img src="Models Attempts/model_5_final/model_5_validation.png" width="500">
 
 ## Author
 
